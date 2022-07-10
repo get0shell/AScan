@@ -1,0 +1,5 @@
+{
+  "name": "Go pprof 调试信息泄露漏洞",
+  "payload": "debug/pprof/goroutine?debug=1",
+  "res": "goroutine profile(\\S)"
+}

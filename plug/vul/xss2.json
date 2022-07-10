@@ -1,0 +1,5 @@
+{
+  "name": "xss注入漏洞",
+  "payload": "\"><ScRiPt>alert(98760);</ScRiPt>",
+  "res": "(\\S)ScRiPt(\\S)alert(\\S){2}98760(\\S){5}ScRiPt(\\S)"
+}

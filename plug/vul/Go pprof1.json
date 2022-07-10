@@ -1,0 +1,5 @@
+{
+  "name": "Go pprof 信息泄露漏洞",
+  "payload": "debug/pprof/",
+  "res": "(\\S)debug(\\S)pprof(\\S)"
+}

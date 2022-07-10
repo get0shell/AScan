@@ -1,0 +1,5 @@
+{
+  "name": "kibana 未授权访问漏洞",
+  "payload": "app/kibana",
+  "res": "(\\S)Kibana(\\S){2}title(\\S)"
+}

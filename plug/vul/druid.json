@@ -1,0 +1,5 @@
+{
+  "name": "druid 监控页未授权访问",
+  "payload": "/druid/index.html",
+  "res": "(\\S)Druid Stat Index(\\S){2}title(\\S)"
+}

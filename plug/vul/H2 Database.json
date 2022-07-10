@@ -1,0 +1,5 @@
+{
+  "name": "H2 Database Web Console 未授权访问基础信息漏洞",
+  "payload": "/h2-console/login.jsp?jsessionid=74ffb6a30117dd739f7bf6a30ac5a089",
+  "res": "(\\S)title(\\S)H2 Console(\\S){2}title(\\S)"
+}
